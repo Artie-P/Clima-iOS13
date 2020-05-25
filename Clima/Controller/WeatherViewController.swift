@@ -107,6 +107,5 @@ extension WeatherViewController: CLLocationManagerDelegate {
         print(error)
     }
     
-    //func test to GIT HUB
 }
 
